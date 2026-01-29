@@ -1,0 +1,68 @@
+# CIF file created by FINDSYM, version 7.1.3
+
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_cell_length_a     15.1955683624
+_cell_length_b     8.7731652838
+_cell_length_c     20.7828006246
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta   104.1061723083
+_cell_angle_gamma  90.0000000000
+_cell_volume       2687.0763433050
+
+_symmetry_space_group_name_H-M "C 1 m 1"
+_symmetry_Int_Tables_number 8
+_space_group.reference_setting '008:C -2y'
+_space_group.transform_Pp_abc a,b,c;0,0,0
+
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,z
+3 x+1/2,y+1/2,z
+4 x+1/2,-y+1/2,z
+
+loop_
+_atom_type_symbol
+Bi    
+Te    
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_fract_symmform
+Bi1  Bi   2 a  0.3180400000  0.0000000000 -0.0936700000  1.0000000000 Dx,0,Dz  
+Bi2  Bi   2 a  0.7147900000  0.0000000000  0.1047500000  1.0000000000 Dx,0,Dz  
+Bi3  Bi   2 a  0.3023800000  0.0000000000  0.4003500000  1.0000000000 Dx,0,Dz  
+Bi4  Bi   2 a  0.7055000000  0.0000000000  0.6045800000  1.0000000000 Dx,0,Dz  
+Bi5  Bi   4 b  0.5484150000  0.2568550000  0.4021900000  1.0000000000 Dx,Dy,Dz 
+Bi6  Bi   4 b -0.0551450000  0.2844750000  0.6047200000  1.0000000000 Dx,Dy,Dz 
+Bi7  Bi   4 b  0.5554750000  0.2967550000  0.8980000000  1.0000000000 Dx,Dy,Dz 
+Bi8  Bi   4 b -0.0520750000  0.2982750000  0.1021300000  1.0000000000 Dx,Dy,Dz 
+Bi9  Bi   2 a  0.7890800000  0.0000000000  0.8923400000  1.0000000000 Dx,0,Dz  
+Bi10 Bi   2 a  0.1859900000  0.0000000000  0.0915400000  1.0000000000 Dx,0,Dz  
+Bi11 Bi   2 a  0.7925100000  0.0000000000  0.3955400000  1.0000000000 Dx,0,Dz  
+Bi12 Bi   2 a  0.1858100000  0.0000000000  0.5938800000  1.0000000000 Dx,0,Dz  
+Te1  Te   2 a  0.5984300000  0.0000000000  0.8177400000  1.0000000000 Dx,0,Dz  
+Te2  Te   2 a  0.6000500000  0.0000000000  0.3148400000  1.0000000000 Dx,0,Dz  
+Te3  Te   4 b  0.6410900000  0.2514400000  0.6845400000  1.0000000000 Dx,Dy,Dz 
+Te4  Te   4 b  0.8552800000  0.2520100000  0.3130200000  1.0000000000 Dx,Dy,Dz 
+Te5  Te   4 b  0.6416600000  0.2470600000  0.1823400000  1.0000000000 Dx,Dy,Dz 
+Te6  Te   4 b  0.8627350000  0.2489550000  0.8160500000  1.0000000000 Dx,Dy,Dz 
+Te7  Te   2 a -0.0957100000  0.0000000000  0.1828700000  1.0000000000 Dx,0,Dz  
+Te8  Te   2 a  0.8996800000  0.0000000000  0.6834800000  1.0000000000 Dx,0,Dz  
+Te9  Te   2 a  0.1056600000  0.0000000000  0.3153900000  1.0000000000 Dx,0,Dz  
+Te10 Te   2 a -0.0014700000  0.0000000000  0.0040000000  1.0000000000 Dx,0,Dz  
+Te11 Te   2 a -0.0028400000  0.0000000000  0.5051000000  1.0000000000 Dx,0,Dz  
+Te12 Te   4 b  0.2508900000  0.2526800000  0.4996400000  1.0000000000 Dx,Dy,Dz 
+Te13 Te   4 b  0.2520800000  0.2496500000 -0.0006400000  1.0000000000 Dx,Dy,Dz 
+Te14 Te   2 a  0.5046300000  0.0000000000 -0.0040800000  1.0000000000 Dx,0,Dz  
+Te15 Te   2 a  0.5013800000  0.0000000000  0.5015500000  1.0000000000 Dx,0,Dz

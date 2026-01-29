@@ -1,0 +1,83 @@
+# CIF file created by FINDSYM, version 7.1.3
+
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_cell_length_a     8.7731654343
+_cell_length_b     8.7731654343
+_cell_length_c     60.4683335566
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta   90.0000000000
+_cell_angle_gamma  120.0000000000
+_cell_volume       4030.6145610763
+
+_symmetry_space_group_name_H-M "R -3 2/m (hexagonal axes)"
+_symmetry_Int_Tables_number 166
+_space_group.reference_setting '166:-R 3 2"'
+_space_group.transform_Pp_abc a,b,c;0,0,0
+
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 y,x,-z
+5 -x,-x+y,-z
+6 x-y,-y,-z
+7 -x,-y,-z
+8 y,-x+y,-z
+9 x-y,x,-z
+10 -y,-x,z
+11 x,x-y,z
+12 -x+y,y,z
+13 x+1/3,y+2/3,z+2/3
+14 -y+1/3,x-y+2/3,z+2/3
+15 -x+y+1/3,-x+2/3,z+2/3
+16 y+1/3,x+2/3,-z+2/3
+17 -x+1/3,-x+y+2/3,-z+2/3
+18 x-y+1/3,-y+2/3,-z+2/3
+19 -x+1/3,-y+2/3,-z+2/3
+20 y+1/3,-x+y+2/3,-z+2/3
+21 x-y+1/3,x+2/3,-z+2/3
+22 -y+1/3,-x+2/3,z+2/3
+23 x+1/3,x-y+2/3,z+2/3
+24 -x+y+1/3,y+2/3,z+2/3
+25 x+2/3,y+1/3,z+1/3
+26 -y+2/3,x-y+1/3,z+1/3
+27 -x+y+2/3,-x+1/3,z+1/3
+28 y+2/3,x+1/3,-z+1/3
+29 -x+2/3,-x+y+1/3,-z+1/3
+30 x-y+2/3,-y+1/3,-z+1/3
+31 -x+2/3,-y+1/3,-z+1/3
+32 y+2/3,-x+y+1/3,-z+1/3
+33 x-y+2/3,x+1/3,-z+1/3
+34 -y+2/3,-x+1/3,z+1/3
+35 x+2/3,x-y+1/3,z+1/3
+36 -x+y+2/3,y+1/3,z+1/3
+
+loop_
+_atom_type_symbol
+Bi    
+Te    
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_fract_symmform
+Bi1 Bi  18 h  0.8359033333  0.1640966667  0.1179266667  1.0000000000 Dx,-Dx,Dz 
+Bi2 Bi  18 h  0.5010533333  0.4989466667  0.0501466667  1.0000000000 Dx,-Dx,Dz 
+Bi3 Bi   6 c  0.0000000000  0.0000000000  0.4486000000  1.0000000000 0,0,Dz    
+Bi4 Bi   6 c  0.0000000000  0.0000000000  0.0487300000  1.0000000000 0,0,Dz    
+Bi5 Bi   6 c  0.0000000000  0.0000000000  0.1487500000  1.0000000000 0,0,Dz    
+Te1 Te  18 h  0.8328933333  0.1671066667  0.0207566667  1.0000000000 Dx,-Dx,Dz 
+Te2 Te  18 h  0.4999333333  0.5000666667  0.1452766667  1.0000000000 Dx,-Dx,Dz 
+Te3 Te   6 c  0.0000000000  0.0000000000  0.3544600000  1.0000000000 0,0,Dz    
+Te4 Te  18 h  0.1664133333  0.8335866667  0.0831566667  1.0000000000 Dx,-Dx,Dz 
+Te5 Te   6 c  0.0000000000  0.0000000000  0.7489200000  1.0000000000 0,0,Dz

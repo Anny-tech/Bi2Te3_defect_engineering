@@ -1,0 +1,56 @@
+# CIF file created by FINDSYM, version 7.1.3
+
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_cell_length_a     15.1955758369
+_cell_length_b     8.7731609684
+_cell_length_c     11.2793309759
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta   116.6838964443
+_cell_angle_gamma  90.0000000000
+_cell_volume       1343.5381716519
+
+_symmetry_space_group_name_H-M "C 1 m 1"
+_symmetry_Int_Tables_number 8
+_space_group.reference_setting '008:C -2y'
+_space_group.transform_Pp_abc a,b,c;0,0,0
+
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,z
+3 x+1/2,y+1/2,z
+4 x+1/2,-y+1/2,z
+
+loop_
+_atom_type_symbol
+Bi    
+Te    
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_fract_symmform
+Bi1  Bi   2 a  0.4007473750  0.0000000000  0.2040897500  1.0000000000 Dx,0,Dz  
+Bi2  Bi   2 a  0.6031648750  0.0000000000  0.8055397500  1.0000000000 Dx,0,Dz  
+Bi3  Bi   4 b  0.6505711250  0.2498212500  0.2021347500  1.0000000000 Dx,Dy,Dz 
+Bi4  Bi   4 b  0.8489311250  0.2506337500  0.7997697500  1.0000000000 Dx,Dy,Dz 
+Bi5  Bi   2 a  0.8979723750  0.0000000000  0.1919697500  1.0000000000 Dx,0,Dz  
+Te1  Te   2 a  0.0943248750  0.0000000000  0.7938497500  1.0000000000 Dx,0,Dz  
+Te2  Te   2 a  0.2179898750  0.0000000000  0.6184897500  1.0000000000 Dx,0,Dz  
+Te3  Te   2 a  0.7873473750  0.0000000000  0.3710297500  1.0000000000 Dx,0,Dz  
+Te4  Te   4 b  0.4634048750  0.2579800000  0.6316397500  1.0000000000 Dx,Dy,Dz 
+Te5  Te   4 b  0.0383548750  0.2471725000  0.3697247500  1.0000000000 Dx,Dy,Dz 
+Te6  Te   2 a  0.7092648750  0.0000000000  0.6287197500  1.0000000000 Dx,0,Dz  
+Te7  Te   2 a  0.2953998750  0.0000000000  0.3840097500  1.0000000000 Dx,0,Dz  
+Te8  Te   2 a -0.0026076250  0.0000000000  0.0025497500  1.0000000000 Dx,0,Dz  
+Te9  Te   4 b  0.2459036250  0.2435937500 -0.0053102500  1.0000000000 Dx,Dy,Dz 
+Te10 Te   2 a  0.5020648750  0.0000000000  0.0038197500  1.0000000000 Dx,0,Dz

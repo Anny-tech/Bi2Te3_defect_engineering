@@ -1,0 +1,59 @@
+# CIF file created by FINDSYM, version 7.1.3
+
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_cell_length_a     8.7731609684
+_cell_length_b     8.7731652838
+_cell_length_c     20.7828006246
+_cell_angle_alpha  89.9999997110
+_cell_angle_beta   102.1849109150
+_cell_angle_gamma  119.9999489145
+_cell_volume       1343.5381716515
+
+_symmetry_space_group_name_H-M "P -1"
+_symmetry_Int_Tables_number 2
+_space_group.reference_setting '002:-P 1'
+_space_group.transform_Pp_abc a,b,c;0,0,0
+
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,-y,-z
+
+loop_
+_atom_type_symbol
+Bi    
+Te    
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_fract_symmform
+Bi1  Bi   2 i  0.1529500000  0.7018800000  0.0975000000  1.0000000000 Dx,Dy,Dz 
+Bi2  Bi   2 i  0.3497000000  0.3019950000  0.8984900000  1.0000000000 Dx,Dy,Dz 
+Bi3  Bi   2 i  0.1487100000  0.6990300000  0.6007600000  1.0000000000 Dx,Dy,Dz 
+Bi4  Bi   2 i  0.3514500000  0.3011300000  0.4001600000  1.0000000000 Dx,Dy,Dz 
+Bi5  Bi   2 i  0.6505600000  0.2011800000  0.6010800000  1.0000000000 Dx,Dy,Dz 
+Bi6  Bi   2 i  0.8516600000  0.8011800000  0.3996300000  1.0000000000 Dx,Dy,Dz 
+Bi7  Bi   2 i  0.6426800000  0.1972700000  0.0953700000  1.0000000000 Dx,Dy,Dz 
+Te1  Te   2 i  0.8548450000  0.8003000000  0.8961050000  1.0000000000 Dx,Dy,Dz 
+Te2  Te   2 i -0.0463500000  0.6100100000  0.8167200000  1.0000000000 Dx,Dy,Dz 
+Te3  Te   2 i  0.5675700000  0.4058400000  0.1890700000  1.0000000000 Dx,Dy,Dz 
+Te4  Te   2 i -0.0401050000  0.6048000000  0.3092350000  1.0000000000 Dx,Dy,Dz 
+Te5  Te   2 i  0.5395300000  0.3957300000  0.6862900000  1.0000000000 Dx,Dy,Dz 
+Te6  Te   2 i  0.4608550000  0.1060200000  0.3143450000  1.0000000000 Dx,Dy,Dz 
+Te7  Te   2 i  0.0409700000  0.8950400000  0.6857700000  1.0000000000 Dx,Dy,Dz 
+Te8  Te   2 i  0.4584800000  0.1024300000  0.8157200000  1.0000000000 Dx,Dy,Dz 
+Te9  Te   2 i  0.0468500000 -0.0953600000  0.1849950000  1.0000000000 Dx,Dy,Dz 
+Te10 Te   2 i  0.7483700000 -0.0061900000 -0.0028700000  1.0000000000 Dx,Dy,Dz 
+Te11 Te   2 i  0.7512100000  0.0016200000  0.4989800000  1.0000000000 Dx,Dy,Dz 
+Te12 Te   2 i  0.2506500000  0.5006700000  0.5003900000  1.0000000000 Dx,Dy,Dz 
+Te13 Te   2 i  0.2489100000  0.4937100000  0.0033900000  1.0000000000 Dx,Dy,Dz
