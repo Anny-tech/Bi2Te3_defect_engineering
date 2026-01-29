@@ -1,0 +1,75 @@
+# CIF file created by FINDSYM, version 7.1.3
+
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_cell_length_a     8.7731631261
+_cell_length_b     8.7731631261
+_cell_length_c     60.4683335566
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta   90.0000000000
+_cell_angle_gamma  120.0000000000
+_cell_volume       4030.6124401167
+
+_symmetry_space_group_name_H-M "R 3 m (hexagonal axes)"
+_symmetry_Int_Tables_number 160
+_space_group.reference_setting '160:R 3 -2"'
+_space_group.transform_Pp_abc a,b,c;0,0,0
+
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 -y,-x,z
+5 x,x-y,z
+6 -x+y,y,z
+7 x+1/3,y+2/3,z+2/3
+8 -y+1/3,x-y+2/3,z+2/3
+9 -x+y+1/3,-x+2/3,z+2/3
+10 -y+1/3,-x+2/3,z+2/3
+11 x+1/3,x-y+2/3,z+2/3
+12 -x+y+1/3,y+2/3,z+2/3
+13 x+2/3,y+1/3,z+1/3
+14 -y+2/3,x-y+1/3,z+1/3
+15 -x+y+2/3,-x+1/3,z+1/3
+16 -y+2/3,-x+1/3,z+1/3
+17 x+2/3,x-y+1/3,z+1/3
+18 -x+y+2/3,y+1/3,z+1/3
+
+loop_
+_atom_type_symbol
+Bi    
+Te    
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_fract_symmform
+Bi1  Bi   3 a  0.0000000000  0.0000000000  0.2974798333  1.0000000000 0,0,Dz    
+Bi2  Bi   3 a  0.0000000000  0.0000000000  0.7000665000  1.0000000000 0,0,Dz    
+Bi3  Bi   9 b  0.1662800000  0.8337200000  0.1325598333  1.0000000000 Dx,-Dx,Dz 
+Bi4  Bi   9 b  0.4995600000  0.5004400000  0.1996398333  1.0000000000 Dx,-Dx,Dz 
+Bi5  Bi   9 b  0.5023300000  0.4976700000  0.2988698333  1.0000000000 Dx,-Dx,Dz 
+Bi6  Bi   9 b  0.1672300000  0.8327700000  0.0337798333  1.0000000000 Dx,-Dx,Dz 
+Bi7  Bi   3 a  0.0000000000  0.0000000000  0.7996398333  1.0000000000 0,0,Dz    
+Bi8  Bi   3 a  0.0000000000  0.0000000000  0.2003398333  1.0000000000 0,0,Dz    
+Bi9  Bi   9 b  0.8335733333  0.1664266667  0.2692765000  1.0000000000 Dx,-Dx,Dz 
+Te1  Te   3 a  0.0000000000  0.0000000000  0.3966098333  1.0000000000 0,0,Dz    
+Te2  Te   3 a  0.0000000000  0.0000000000  0.6056598333  1.0000000000 0,0,Dz    
+Te3  Te   9 b  0.1664933333  0.8335066667  0.2291965000  1.0000000000 Dx,-Dx,Dz 
+Te4  Te   9 b  0.5004800000  0.4995200000  0.1040765000  1.0000000000 Dx,-Dx,Dz 
+Te5  Te   9 b  0.8335900000  0.1664100000  0.0632798333  1.0000000000 Dx,-Dx,Dz 
+Te6  Te   3 a  0.0000000000  0.0000000000  0.8955998333  1.0000000000 0,0,Dz    
+Te7  Te   3 a  0.0000000000  0.0000000000  0.1038998333  1.0000000000 0,0,Dz    
+Te8  Te   3 a  0.0000000000  0.0000000000  0.0010898333  1.0000000000 0,0,Dz    
+Te9  Te   9 b  0.8333533333  0.1666466667  0.1670865000  1.0000000000 Dx,-Dx,Dz 
+Te10 Te   9 b  0.5001100000  0.4998900000  0.0020198333  1.0000000000 Dx,-Dx,Dz 
+Te11 Te   3 a  0.0000000000  0.0000000000  0.5002398333  1.0000000000 0,0,Dz
